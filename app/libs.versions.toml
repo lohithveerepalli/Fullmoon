@@ -1,0 +1,13 @@
+[versions]
+kotlin = "1.9.0"
+compose = "1.5.1"
+
+[plugins]
+android.application = "com.android.application"
+kotlin.android = "org.jetbrains.kotlin.android"
+
+[libraries]
+androidx.compose.bom = "androidx.compose:compose-bom:2023.10.00"
+androidx.compose.ui = "androidx.compose.ui:ui:1.5.1"
+androidx.compose.ui.tooling.preview = "androidx.compose.ui:ui-tooling-preview:1.5.1"
+androidx.compose.material3 = "androidx.compose.material3:material3:1.1.1"
